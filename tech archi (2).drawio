@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2023-05-20T11:03:58.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ctJMrfEXMjZ9_vrb2jze" version="21.3.2" type="device">
+  <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
+    <mxGraphModel dx="1615" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q9iimC_ABqJqE_Q__YMP-54" value="Анализ предпочтений пользователей&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="350" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9iimC_ABqJqE_Q__YMP-56" value="Составление топа фильмов&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9iimC_ABqJqE_Q__YMP-57" value="Составление топа фильмов" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="110" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9iimC_ABqJqE_Q__YMP-58" value="&lt;br&gt;Данные о фильмах" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill" vertex="1" parent="1">
+          <mxGeometry x="345" y="530" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9iimC_ABqJqE_Q__YMP-59" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=1 4;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q9iimC_ABqJqE_Q__YMP-57" target="Q9iimC_ABqJqE_Q__YMP-58">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="520" as="sourcePoint" />
+            <mxPoint x="710" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9iimC_ABqJqE_Q__YMP-61" value="&lt;br&gt;Составление отчетов&amp;nbsp; активности пользователей&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9iimC_ABqJqE_Q__YMP-62" value="Составление отчетов активности пользователей" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="500" y="420" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9iimC_ABqJqE_Q__YMP-63" value="&lt;br&gt;Данные о пользователях" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="530" width="105" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9iimC_ABqJqE_Q__YMP-64" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=1 4;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q9iimC_ABqJqE_Q__YMP-62" target="Q9iimC_ABqJqE_Q__YMP-63">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="520" as="sourcePoint" />
+            <mxPoint x="870" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9iimC_ABqJqE_Q__YMP-65" value="Сервис анализа предпочтений пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9iimC_ABqJqE_Q__YMP-66" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Q9iimC_ABqJqE_Q__YMP-54" target="Q9iimC_ABqJqE_Q__YMP-65">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="280" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

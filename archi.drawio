@@ -1,0 +1,823 @@
+<mxfile host="app.diagrams.net" modified="2023-05-20T14:54:15.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="NbfJ4bk9K1gYf5FDOUt3" version="21.3.2" type="google">
+  <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-44" target="i_WYheZD6JwpmQFqZCui-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="73" y="-438" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-44" target="i_WYheZD6JwpmQFqZCui-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-158" y="-438" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-44" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="-438" width="507" height="466" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Сайт CineMatch&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-1401" y="-932.5" width="1825" height="332" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--6" value="Модератор приложения" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-283.5" y="-1031" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--7" value="Администратор приложения&amp;nbsp;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-523" y="-1028" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--8" value="Неавторизованный пользователь" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="-1028" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--9" value="Авторизованный пользователь" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-994" y="-1023" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="2OPaNp4iIaNqgDM8rwG--9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-565" y="-1089.5894308943089" as="sourcePoint" />
+            <mxPoint x="-768" y="-919" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="2OPaNp4iIaNqgDM8rwG--6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-535" y="-1089.5856515373353" as="sourcePoint" />
+            <mxPoint x="-768" y="-919" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-818" y="-869" as="sourcePoint" />
+            <mxPoint x="-535" y="-1078.7794117647059" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="2OPaNp4iIaNqgDM8rwG--8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-565" y="-1079.2142857142858" as="sourcePoint" />
+            <mxPoint x="-768" y="-919" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--14" value="Авторизация&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-704.5" y="-901" width="191" height="269" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--16" value="Авторизация" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-680.5" y="-856" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--17" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:20px;&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;top&quot; style=&quot;padding:4px;&quot;&gt;Данные авторизации&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-680.5" y="-760" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--16" target="2OPaNp4iIaNqgDM8rwG--17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-868" y="-668" as="sourcePoint" />
+            <mxPoint x="-818" y="-718" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--20" value="Подбор подходящего фильма&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-1151" y="-901" width="244" height="269" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--21" value="&lt;br&gt;Сбор информации о предпочтениях пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-1139" y="-856" width="109" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--22" value="&lt;br&gt;Данные о предпочтениях пользавателя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="-860" width="87" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--21" target="2OPaNp4iIaNqgDM8rwG--22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-750" y="-855" as="sourcePoint" />
+            <mxPoint x="-700" y="-905" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--24" value="Обработка предпочтений пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-1139" y="-757" width="95" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--22" target="2OPaNp4iIaNqgDM8rwG--24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-750" y="-855" as="sourcePoint" />
+            <mxPoint x="-700" y="-905" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--26" value="&lt;br&gt;Список фильмов, подходящих по предпочтениям пользователю" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-1026" y="-760" width="111" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--24" target="2OPaNp4iIaNqgDM8rwG--26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-750" y="-786" as="sourcePoint" />
+            <mxPoint x="-700" y="-836" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--28" value="Добавить друга для совместного просмотра&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-887" y="-901" width="156" height="269" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--29" value="Добавление пользователя в список друзей" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-868" y="-835" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--30" value="&lt;br&gt;Данные пользователя, добавляемого в друзья" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-868" y="-754.5" width="119" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--29" target="2OPaNp4iIaNqgDM8rwG--30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-987" y="-786.5" as="sourcePoint" />
+            <mxPoint x="-1038" y="-747.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--32" value="Пополнение списка фильмов&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-493" y="-902.5" width="191" height="269" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--33" value="Добавление нового фильма: Указание данных о фильме, погрузка обложки" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-476" y="-851.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--34" value="&lt;br&gt;&lt;br&gt;Фильмы" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-472.5" y="-755" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--33" target="2OPaNp4iIaNqgDM8rwG--34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="-961.5" as="sourcePoint" />
+            <mxPoint x="200" y="-1011.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--36" value="Модерация профилей пользователей&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-274" y="-902.5" width="191" height="269" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--37" value="Внесение изменений в профиль пользователя или его блокировка" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-253.5" y="-850" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--38" value="&lt;br&gt;&lt;br&gt;Данные пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-238" y="-753" width="119" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--37" target="2OPaNp4iIaNqgDM8rwG--38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-259" y="-1030" as="sourcePoint" />
+            <mxPoint x="-209" y="-1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--7" target="2OPaNp4iIaNqgDM8rwG--32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-373" y="-929" as="sourcePoint" />
+            <mxPoint x="-323" y="-979" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--8" target="2OPaNp4iIaNqgDM8rwG--14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-373" y="-929" as="sourcePoint" />
+            <mxPoint x="-323" y="-979" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--9" target="2OPaNp4iIaNqgDM8rwG--28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-373" y="-929" as="sourcePoint" />
+            <mxPoint x="-323" y="-979" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-835" y="-928" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--9" target="2OPaNp4iIaNqgDM8rwG--20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-373" y="-929" as="sourcePoint" />
+            <mxPoint x="-323" y="-979" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--6" target="2OPaNp4iIaNqgDM8rwG--36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-373" y="-929" as="sourcePoint" />
+            <mxPoint x="-323" y="-979" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--66" value="Пользователь&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.archimate3.actor;" vertex="1" parent="1">
+          <mxGeometry x="-577" y="-1154" width="51" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i_WYheZD6JwpmQFqZCui-14" target="2OPaNp4iIaNqgDM8rwG--36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="73" y="-591" />
+              <mxPoint x="-178" y="-591" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i_WYheZD6JwpmQFqZCui-14" value="Сервис: Обработка данных пользователей" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="-569" width="111" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i_WYheZD6JwpmQFqZCui-15" target="2OPaNp4iIaNqgDM8rwG--32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-158" y="-578" />
+              <mxPoint x="-398" y="-578" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i_WYheZD6JwpmQFqZCui-15" value="Сервис: Обработка данных фильмов" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="-233" y="-569" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--45" target="2OPaNp4iIaNqgDM8rwG--28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2OPaNp4iIaNqgDM8rwG--45" value="Сервис: Добавление друга" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="-881" y="-565.5" width="143" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i_WYheZD6JwpmQFqZCui-31" target="2OPaNp4iIaNqgDM8rwG--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i_WYheZD6JwpmQFqZCui-31" value="Регистрация/аутентификация пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="-678.5" y="-569" width="139" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i_WYheZD6JwpmQFqZCui-25" target="2OPaNp4iIaNqgDM8rwG--20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1188" y="-586" />
+              <mxPoint x="-1029" y="-586" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i_WYheZD6JwpmQFqZCui-25" value="Сервис: Поиск фильмов для просмотра" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="-1262.5" y="-565.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-30" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-256" y="-405" width="233" height="411" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-7" value="Добавление новых фильмов в бд" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-214.5" y="-285" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="i_WYheZD6JwpmQFqZCui-51" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:20px;&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;top&quot; style=&quot;padding:4px;&quot;&gt;Данные о фильме&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill" vertex="1" parent="1">
+          <mxGeometry x="-188" y="-371" width="97" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-31" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-4" y="-405" width="222" height="412" as="geometry" />
+        </mxCell>
+        <mxCell id="NRnLiXCZs7Ot5jkAOs1V-35" value="Добавить фильм" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-214.5" y="-183" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="VCe5McfCWZ9_aBj2l-YM-14" value="Обновить данные о фильме" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-214.5" y="-88" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="i_WYheZD6JwpmQFqZCui-17" value="&amp;nbsp; &amp;nbsp;Блокировка пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="44.5" y="-127" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="NRnLiXCZs7Ot5jkAOs1V-37" value="Проверка данных о&amp;nbsp; пользователе" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="-242" width="114" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="i_WYheZD6JwpmQFqZCui-50" value="&lt;br&gt;Данные о пользователе" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill" vertex="1" parent="1">
+          <mxGeometry x="68.5" y="-343" width="102" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NRnLiXCZs7Ot5jkAOs1V-37" target="i_WYheZD6JwpmQFqZCui-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="NRnLiXCZs7Ot5jkAOs1V-37" target="i_WYheZD6JwpmQFqZCui-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VCe5McfCWZ9_aBj2l-YM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRnLiXCZs7Ot5jkAOs1V-35" target="VCe5McfCWZ9_aBj2l-YM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="NRnLiXCZs7Ot5jkAOs1V-35" target="jZR-Tp1-Qu3MEY-V8yUe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-7" target="i_WYheZD6JwpmQFqZCui-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-34" value="Модерация пользователей" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="-398" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-35" value="Добавление фильмов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-171.5" y="-401" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-48" value="Администрация" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-439.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-94" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.node;" vertex="1" parent="1">
+          <mxGeometry x="-1426.5" y="364" width="480" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-101" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-95" target="jZR-Tp1-Qu3MEY-V8yUe-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-102" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-95" target="xFEC5xzMfHbkkOvkN3Mo-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1303" y="111" />
+              <mxPoint x="-875" y="111" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-103" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-95" target="xFEC5xzMfHbkkOvkN3Mo-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-95" target="xFEC5xzMfHbkkOvkN3Mo-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-106" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-95" target="jZR-Tp1-Qu3MEY-V8yUe-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-107" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-95" target="Nj4oRjhFEH60hoAwViCD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-95" value="Сервис доступа к приложению" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="-1379" y="194" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-93" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-96" target="xFEC5xzMfHbkkOvkN3Mo-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-94" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-96" target="xFEC5xzMfHbkkOvkN3Mo-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-498" y="92" />
+              <mxPoint x="-824" y="92" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-95" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-96" target="jZR-Tp1-Qu3MEY-V8yUe-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-96" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-96" target="Nj4oRjhFEH60hoAwViCD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-96" target="xFEC5xzMfHbkkOvkN3Mo-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-96" value="Сервис доступа к данным" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="-572.5" y="157" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-97" target="jZR-Tp1-Qu3MEY-V8yUe-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-110" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-97" target="Nj4oRjhFEH60hoAwViCD-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="130" />
+              <mxPoint x="510" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-111" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-97" target="xFEC5xzMfHbkkOvkN3Mo-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="132" />
+              <mxPoint x="-393" y="132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-112" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-97" target="xFEC5xzMfHbkkOvkN3Mo-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="101" y="132" />
+              <mxPoint x="-773" y="132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-113" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-97" target="xFEC5xzMfHbkkOvkN3Mo-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="101" y="132" />
+              <mxPoint x="-1071" y="132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-114" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-97" target="jZR-Tp1-Qu3MEY-V8yUe-160">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="101" y="132" />
+              <mxPoint x="-1491" y="132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-97" value="Сервис хранения данных" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="25.5" y="156" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-98" value="Сервер" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.device;" vertex="1" parent="1">
+          <mxGeometry x="-1400.5" y="444" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-99" value="Сервер приложения" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1320.5" y="414" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-100" value="ОС Debian Server" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-1325.5" y="444" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-101" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-1210.5" y="444" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-102" value="PostgreSQL" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-1400.5" y="504" width="105" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-103" value="Docker-контейнеры микросервисов" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-1190.5" y="494" width="95" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-104" value="Proxmox" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1170.5" y="444" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-105" value="Коммутатор" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=device;" vertex="1" parent="1">
+          <mxGeometry x="-1035.5" y="644" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-106" value="Брандмауэр" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=device;" vertex="1" parent="1">
+          <mxGeometry x="-705.5" y="884" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-107" value="Маршрутизатор" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=device;" vertex="1" parent="1">
+          <mxGeometry x="-705.5" y="754" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-108" value="Коммутатор" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=device;" vertex="1" parent="1">
+          <mxGeometry x="-465.5" y="856.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-109" value="LAN" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=netw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="14.5" y="874" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-110" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.node;" vertex="1" parent="1">
+          <mxGeometry x="-30.5" y="296.5" width="170" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-111" value="Устройство пользователя" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10.5" y="376.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-112" value="Персональный компьютер с доступом в интернет" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.device;" vertex="1" parent="1">
+          <mxGeometry x="-10.5" y="421.5" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-113" value="Браузер" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-10.5" y="526.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-114" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-134" target="jZR-Tp1-Qu3MEY-V8yUe-110">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-800.5" y="774" as="sourcePoint" />
+            <mxPoint x="-960.5" y="824" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-226.5" y="654" />
+              <mxPoint x="12.5" y="654" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-115" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-107" target="jZR-Tp1-Qu3MEY-V8yUe-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-790.5" y="894" as="sourcePoint" />
+            <mxPoint x="-740.5" y="844" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-116" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-108" target="jZR-Tp1-Qu3MEY-V8yUe-109">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-790.5" y="894" as="sourcePoint" />
+            <mxPoint x="-740.5" y="844" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-117" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=-10;entryPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-108" target="jZR-Tp1-Qu3MEY-V8yUe-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-790.5" y="894" as="sourcePoint" />
+            <mxPoint x="-740.5" y="844" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-390.5" y="819" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-118" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-106" target="jZR-Tp1-Qu3MEY-V8yUe-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-790.5" y="894" as="sourcePoint" />
+            <mxPoint x="-740.5" y="844" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-119" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-105" target="jZR-Tp1-Qu3MEY-V8yUe-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1010.5" y="784" as="sourcePoint" />
+            <mxPoint x="-960.5" y="734" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1300.5" y="684" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-120" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-105" target="jZR-Tp1-Qu3MEY-V8yUe-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-685.5" y="714" as="sourcePoint" />
+            <mxPoint x="-635.5" y="664" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-960.5" y="794" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-121" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.node;" vertex="1" parent="1">
+          <mxGeometry x="-907" y="316" width="810" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-122" value="Данны о пользователе" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-560.5" y="434" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-123" value="Данные о фильме" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-550.5" y="506.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-124" value="Данные о credentials пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-675.5" y="506.5" width="100" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-125" value="Данные о друзьях" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-420.5" y="436.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-126" value="Данные о подобранных фильмах" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-420.5" y="516.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-127" value="Данные о комментариях" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-670.5" y="439" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-128" value="Сервер" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.device;" vertex="1" parent="1">
+          <mxGeometry x="-890.5" y="441.5" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-129" value="ОС Debian Server" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-780.5" y="434" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-130" value="Docker-контейнер PostgreSQL" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-770.5" y="524" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-131" value="Docker-контейнер Redis" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-890.5" y="521.5" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-132" value="Сервер БД" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-640.5" y="404" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-133" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-121" target="jZR-Tp1-Qu3MEY-V8yUe-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-620.5" y="624" as="sourcePoint" />
+            <mxPoint x="-570.5" y="574" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-710.5" y="684" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-134" value="WLAN" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=netw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-275.5" y="769" width="97.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-135" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-110" target="jZR-Tp1-Qu3MEY-V8yUe-109">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360.5" y="574" as="sourcePoint" />
+            <mxPoint x="-310.5" y="524" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-136" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-94" target="jZR-Tp1-Qu3MEY-V8yUe-95">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-660.5" y="524" as="sourcePoint" />
+            <mxPoint x="-500.5" y="524" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-137" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-121" target="jZR-Tp1-Qu3MEY-V8yUe-96">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-660.5" y="524" as="sourcePoint" />
+            <mxPoint x="-500.5" y="524" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-488" y="316" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-138" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-121" target="jZR-Tp1-Qu3MEY-V8yUe-97">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-660.5" y="524" as="sourcePoint" />
+            <mxPoint x="-350.5" y="204" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-92" y="282" />
+              <mxPoint x="-270.5" y="304" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-146" target="2OPaNp4iIaNqgDM8rwG--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-146" value="Комментатор приложения&amp;nbsp;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="-1023" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-149" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-146" target="2OPaNp4iIaNqgDM8rwG--66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-776" y="-1120" as="sourcePoint" />
+            <mxPoint x="-726" y="-1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-150" value="Комментирование&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-1381" y="-901" width="212" height="266" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-151" target="2OPaNp4iIaNqgDM8rwG--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-151" target="Nj4oRjhFEH60hoAwViCD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-151" value="Эксперт приложения" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="-1031" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-152" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2OPaNp4iIaNqgDM8rwG--66" target="jZR-Tp1-Qu3MEY-V8yUe-151">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-388" y="-1108" as="sourcePoint" />
+            <mxPoint x="-338" y="-1158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-156" target="jZR-Tp1-Qu3MEY-V8yUe-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-156" value="Написание комментария к фильму" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-1350" y="-845" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-157" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:20px;&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;top&quot; style=&quot;padding:4px;&quot;&gt;Данные о&amp;nbsp; комментарии&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-1350" y="-734" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-160" target="jZR-Tp1-Qu3MEY-V8yUe-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-160" value="Комментирование&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-1646" y="-437" width="206" height="464" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-161" target="jZR-Tp1-Qu3MEY-V8yUe-150">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1543" y="-585" />
+              <mxPoint x="-1275" y="-585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-161" value="Сервис: Оставить комментарий" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="-1618" y="-569" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-164" target="jZR-Tp1-Qu3MEY-V8yUe-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-164" value="Написание комментария к фильму" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-1618" y="-379" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-165" value="&lt;br&gt;&lt;br&gt;Данные о комментарии" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill" vertex="1" parent="1">
+          <mxGeometry x="-1612" y="-255" width="138" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-167" value="Данные о предпочтениях пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-675" y="569" width="101" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="jZR-Tp1-Qu3MEY-V8yUe-171" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-146" target="jZR-Tp1-Qu3MEY-V8yUe-150">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1513" y="-1004" as="sourcePoint" />
+            <mxPoint x="-1463" y="-1054" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nj4oRjhFEH60hoAwViCD-1" value="Анализ предпочтений пользователей&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="247" y="-439.5" width="350" height="466.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj4oRjhFEH60hoAwViCD-2" value="Составление топа фильмов&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="267" y="-384.5" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj4oRjhFEH60hoAwViCD-3" value="Составление топа фильмов" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="287" y="-311.5" width="110" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj4oRjhFEH60hoAwViCD-4" value="&lt;br&gt;Данные о фильмах" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill" vertex="1" parent="1">
+          <mxGeometry x="292" y="-201.5" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj4oRjhFEH60hoAwViCD-5" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=1 4;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nj4oRjhFEH60hoAwViCD-3" target="Nj4oRjhFEH60hoAwViCD-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="497" y="-211.5" as="sourcePoint" />
+            <mxPoint x="657" y="-211.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nj4oRjhFEH60hoAwViCD-6" value="&lt;br&gt;Составление отчетов&amp;nbsp; активности пользователей&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-384.5" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj4oRjhFEH60hoAwViCD-7" value="Составление отчетов активности пользователей" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="447" y="-311.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj4oRjhFEH60hoAwViCD-8" value="&lt;br&gt;Данные о пользователях" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill" vertex="1" parent="1">
+          <mxGeometry x="454.5" y="-201.5" width="105" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj4oRjhFEH60hoAwViCD-9" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=1 4;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nj4oRjhFEH60hoAwViCD-7" target="Nj4oRjhFEH60hoAwViCD-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="657" y="-211.5" as="sourcePoint" />
+            <mxPoint x="817" y="-211.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nj4oRjhFEH60hoAwViCD-10" target="Nj4oRjhFEH60hoAwViCD-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="422" y="-583" />
+              <mxPoint x="187" y="-583" />
+              <mxPoint x="187" y="-631" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nj4oRjhFEH60hoAwViCD-10" value="Сервис анализа предпочтений пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="347" y="-569" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj4oRjhFEH60hoAwViCD-11" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Nj4oRjhFEH60hoAwViCD-1" target="Nj4oRjhFEH60hoAwViCD-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="227" y="-421.5" as="sourcePoint" />
+            <mxPoint x="387" y="-421.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nj4oRjhFEH60hoAwViCD-13" value="Анализ предпочтений&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="-907" width="413" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-12" value="Составление топа фильмов&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-874" width="165" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-13" value="Составление отчетов активности пользователей&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="185" y="-873" width="193" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xFEC5xzMfHbkkOvkN3Mo-14" target="xFEC5xzMfHbkkOvkN3Mo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-14" value="Составление топа фильмов" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-2" y="-829" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xFEC5xzMfHbkkOvkN3Mo-15" target="xFEC5xzMfHbkkOvkN3Mo-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-15" value="Составление отчетов активности пользователей" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="190.5" y="-830" width="139" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-16" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:20px;&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;top&quot; style=&quot;padding:4px;&quot;&gt;Данные о фильмах&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-2" y="-731" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-17" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:20px;&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;top&quot; style=&quot;padding:4px;&quot;&gt;Данные о пользователях&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="191" y="-734" width="138" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="xFEC5xzMfHbkkOvkN3Mo-22" target="i_WYheZD6JwpmQFqZCui-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-609" y="-437" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-22" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-707" y="-437" width="419" height="464" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="xFEC5xzMfHbkkOvkN3Mo-23" target="2OPaNp4iIaNqgDM8rwG--45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-809" y="-438" />
+              <mxPoint x="-809" y="-468" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-23" value="Добавление друга&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-926" y="-438" width="204.5" height="461" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-24" value="Вход в приложение" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-599.5" y="-428" width="179" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-25" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:20px;&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;top&quot; style=&quot;padding:4px;&quot;&gt;Данные о друзьях пользователя&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill" vertex="1" parent="1">
+          <mxGeometry x="-898.75" y="-187" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="xFEC5xzMfHbkkOvkN3Mo-27" target="xFEC5xzMfHbkkOvkN3Mo-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-27" value="Добавление друзей пользователей из сторонних сервисов" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-898.75" y="-349" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-28" value="Регистрация&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-698" y="-376.63" width="195" height="333.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-29" value="Добавить нового пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-680.5" y="-325.2" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="xFEC5xzMfHbkkOvkN3Mo-29" target="xFEC5xzMfHbkkOvkN3Mo-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-31" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:20px;&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;top&quot; style=&quot;padding:4px;&quot;&gt;Данные о credentials пользователя&amp;nbsp;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill" vertex="1" parent="1">
+          <mxGeometry x="-667.5" y="-169.57" width="124" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="xFEC5xzMfHbkkOvkN3Mo-34" target="i_WYheZD6JwpmQFqZCui-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-34" value="Поиск фильмов&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-1420.5" y="-438" width="466" height="465" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="xFEC5xzMfHbkkOvkN3Mo-36" target="xFEC5xzMfHbkkOvkN3Mo-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-36" value="Уточнить предпочтения&amp;nbsp; пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-1153.5" y="-265" width="180" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-37" value="Найти подходящий фильм&lt;br&gt;для просмотра парой пользователей" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-1153.5" y="-157" width="180" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-38" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:20px;&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;top&quot; style=&quot;padding:4px;&quot;&gt;Данные о подобранных фильмах&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill" vertex="1" parent="1">
+          <mxGeometry x="-1345.5" y="-387" width="90" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="xFEC5xzMfHbkkOvkN3Mo-42" target="xFEC5xzMfHbkkOvkN3Mo-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;" edge="1" parent="1" source="xFEC5xzMfHbkkOvkN3Mo-42" target="xFEC5xzMfHbkkOvkN3Mo-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;" edge="1" parent="1" source="xFEC5xzMfHbkkOvkN3Mo-42" target="xFEC5xzMfHbkkOvkN3Mo-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-42" value="Поиск подходящих для&amp;nbsp; просмотра фильмов" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-1375.5" y="-265" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-43" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:20px;&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;top&quot; style=&quot;padding:4px;&quot;&gt;Данные о предподчтениях пользователя&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill" vertex="1" parent="1">
+          <mxGeometry x="-1138.5" y="-380" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-47" value="Аутентификация&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-486" y="-377" width="186" height="334" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="xFEC5xzMfHbkkOvkN3Mo-48" target="xFEC5xzMfHbkkOvkN3Mo-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-48" value="Вход существующего пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-468" y="-328.13" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-49" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:20px;&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;top&quot; style=&quot;padding:4px;&quot;&gt;Данные о входе пользователя&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill" vertex="1" parent="1">
+          <mxGeometry x="-468" y="-172" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-53" value="Данные о входе пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="576.5" width="109" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="xFEC5xzMfHbkkOvkN3Mo-90" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;jumpStyle=arc;" edge="1" parent="1" source="jZR-Tp1-Qu3MEY-V8yUe-96" target="jZR-Tp1-Qu3MEY-V8yUe-160">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1570" y="129" as="sourcePoint" />
+            <mxPoint x="-1410" y="129" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
